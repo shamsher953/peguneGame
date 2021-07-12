@@ -1,0 +1,2 @@
+# peguneGame
+Game Play Setting 

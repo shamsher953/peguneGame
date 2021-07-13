@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: :billing-3.0.3:@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7901c0749eedd008bf481d3305cc8a6/billing-3.0.3/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7901c0749eedd008bf481d3305cc8a6/billing-3.0.3/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a7901c0749eedd008bf481d3305cc8a6/billing-3.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b74acdc58d43df9e7744783a997be1c9/billing-3.0.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b74acdc58d43df9e7744783a997be1c9/billing-3.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b74acdc58d43df9e7744783a997be1c9/billing-3.0.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
